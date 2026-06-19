@@ -4,7 +4,7 @@ Template project with helpful defaults for starting new ai-coding projects.
 
 ## Usage
 
-1. Clone the repository.
+1. Copy [`AGENTS.md`] to your project root.
 2. Start prompting.
 
 
@@ -15,6 +15,7 @@ The [`AGENTS.md`](https://github.com/whogben/ai_coding_template/blob/main/AGENTS
 - Maintains the README and CHANGELOG to match the current state.
 - Pushes to git after successful changes.
 
+You can alternatively just copy the AGENTS.md into place.
 
 ## Note for AI
 
